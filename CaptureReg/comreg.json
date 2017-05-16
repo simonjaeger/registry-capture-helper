@@ -1,0 +1,9 @@
+﻿{
+  "DllDirectory": "[DIRECTORY PATH]",
+  "NativeCOMDLLs": [
+    "[FILE PATH]"
+  ],
+  "ComAssemblies": [
+    "[FILE PATH]"
+  ]
+}

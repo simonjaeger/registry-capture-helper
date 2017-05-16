@@ -1,0 +1,1 @@
+void DebugOut(LPTSTR pszFormat, ...);
